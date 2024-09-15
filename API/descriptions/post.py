@@ -23,3 +23,10 @@ delete_post_description = """
     Delete a specific post identified by its ID.
     Only accessible to employees.
 """
+
+update_post_description = """
+    ## UPDATE POST
+    
+    Update an existing post with new title, description, and category.
+
+    """
